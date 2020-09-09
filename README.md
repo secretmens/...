@@ -1,1 +1,1 @@
-# seretmens.com
+# http://seretmens.com
