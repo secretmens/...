@@ -7,15 +7,15 @@ farupe é uma ferramenta que automatiza a arte do phishing  usando ferramentas d
 .....................
 INSTALAÇÃO 
 
-pkg install git
+$apt install git
 .
-apt update && apt upgrade
+$apt update && apt upgrade
 .
-pkg install python
+$apt install python
 .
-pkg install python2
+$apt install python2
 .
-pkg install python3
+$apt install python3
 .
-git clone https://github.com/secretmens/FARUPE
+$git clone https://github.com/secretmens/FARUPE
 ................
