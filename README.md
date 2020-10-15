@@ -18,4 +18,5 @@ $apt install python2
 $apt install python3
 .
 $git clone https://github.com/secretmens/FARUPE
-................
+$cd FARUPE
+$python3 farupee.py
